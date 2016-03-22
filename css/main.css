@@ -7,8 +7,6 @@ html {
   box-sizing: inherit;
 }
 
-.ball {
-  width: 200px;
-  height: 200px;
-
+.strike {
+  text-decoration: line-through;
 }
